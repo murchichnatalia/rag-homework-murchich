@@ -62,7 +62,8 @@ how to cook borscht
 
 ## Демонстрация интерфейса
 
-<img src="doc/demo_ui.png" width="900">
+<img width="2552" height="1007" alt="RAG" src="https://github.com/user-attachments/assets/3a430ce1-5027-4b5f-878a-f8a8faa9038d" />
+
 
 ## Возможности проекта
 
