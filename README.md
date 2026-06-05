@@ -50,15 +50,19 @@ uv run streamlit run app/main.py
 
 ## Demo-вопросы
 
-1. crime TV shows
-2. science nature documentaries
-3. Korean TV Shows
+1. astronauts Mars mission
+2. crime TV shows
+3. science nature documentaries
 
 ## Negative-вопрос
 
 how to cook borscht
 
 Ожидаемое поведение: система должна вернуть отказ, так как информация отсутствует в корпусе данных.
+
+## Демонстрация интерфейса
+
+<img src="doc/demo_ui.png" width="900">
 
 ## Возможности проекта
 
